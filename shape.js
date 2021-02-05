@@ -6,6 +6,7 @@ class Shape{
     calculateArea(){}
 }
 module.exports = Shape
+// shape is exported a module
 
 // Add changes to the local branch add-more-instructions
 
